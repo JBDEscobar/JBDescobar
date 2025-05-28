@@ -1,7 +1,7 @@
 ### Hello World. I'm Javier Escobar 👋.
 ---
 <p>
-  <img src="./south-park-nyan.giff" align="right" width="15%"/>
+  <img src="./south-park-nyan.gif" align="right" width="15%"/>
   <samp>
     <br>Soy un desarrollador Web.
     <br>
