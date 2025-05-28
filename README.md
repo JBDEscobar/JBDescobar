@@ -1,7 +1,7 @@
 ### Hello World. I'm Javier Escobar 👋.
 ---
 <p>
-  <img src="./imagen(1).gif" align="right" width="15%"/>
+  <img src="./NZzo.gif" align="right" width="15%"/>
   <samp>
     <br>Soy un desarrollador Web.
     <br>
