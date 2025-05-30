@@ -8,36 +8,38 @@ Soy un apasionado del desarrollo de software, actualmente enfocado en adquirir h
 
 ### 🚀 Tecnologías y herramientas
 
-- 💻 **Lenguajes**: Java, HTML, CSS, SQL, Bash
-- 🛠️ **Herramientas**: Git, Linux, VSCode
-- 🧠 **Paradigmas**: Programación orientada a objetos
+- 💻 **Lenguajes**: Java, HTML, CSS, SQL, Bash  
+- 🛠️ **Herramientas**: Git, Linux, VSCode  
+- 🧠 **Paradigmas**: Programación orientada a objetos  
 
 ### 📚 Actualmente estoy aprendiendo
 
-- Fundamentos de Java y su aplicación en proyectos
-- Maquetado web con HTML5 y CSS3
-- Control de versiones con Git y GitHub
-- Mejores prácticas de desarrollo en entorno Linux
+- Fundamentos de Java y su aplicación en proyectos  
+- Maquetado web con HTML5 y CSS3  
+- Control de versiones con Git y GitHub  
+- Mejores prácticas de desarrollo en entorno Linux  
 
 ### 🌱 Intereses
 
-- Desarrollo de aplicaciones web
-- Automatización de tareas con scripts en Bash
-- Mejora continua y aprendizaje autodidacta
+- Desarrollo de aplicaciones web  
+- Automatización de tareas con scripts en Bash  
+- Mejora continua y aprendizaje autodidacta  
 
 ### 🌍 Sitio Web
 
-👉 ### 📲 Conecta conmigo
+_(Aquí puedes agregar el enlace si tienes un portafolio o sitio personal)_
+
+### 📲 Conecta conmigo
 
 <p align="left">
-  <a href="[https://www.instagram.com/](https://www.instagram.com/jbdescobar/profilecard/?igsh=NDMwZWlxd2Qxdmth)" target="_blank">
+  <a href="https://www.instagram.com/jbdescobar/profilecard/?igsh=NDMwZWlxd2Qxdmth" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,git,linux,bash,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,git,linux,bash,sql" alt="Tech Skills"/>
 </p>
+
