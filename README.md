@@ -23,7 +23,8 @@ Soy un apasionado del desarrollo de software, actualmente enfocado en adquirir h
 
 - Desarrollo de aplicaciones web  
 - Automatización de tareas con scripts en Bash  
-- Mejora continua y aprendizaje autodidacta  
+- Mejora continua y aprendizaje autodidacta
+- Y futuro dueño de la empresa Sony computer entertainment system 
 
 
 
