@@ -27,7 +27,14 @@ Soy un apasionado del desarrollo de software, actualmente enfocado en adquirir h
 
 ### 🌍 Sitio Web
 
-👉 [JavierEscobar.space](https://JavierEscobar.space/)
+👉 ### 📲 Conecta conmigo
+
+<p align="left">
+  <a href="https://instagram.com/TU_USUARIO_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
 
 ---
 
