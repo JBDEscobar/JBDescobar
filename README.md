@@ -30,7 +30,7 @@ Soy un apasionado del desarrollo de software, actualmente enfocado en adquirir h
 👉 ### 📲 Conecta conmigo
 
 <p align="left">
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="[https://www.instagram.com/](https://www.instagram.com/jbdescobar/profilecard/?igsh=NDMwZWlxd2Qxdmth)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
