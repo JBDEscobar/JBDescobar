@@ -25,9 +25,7 @@ Soy un apasionado del desarrollo de software, actualmente enfocado en adquirir h
 - Automatización de tareas con scripts en Bash  
 - Mejora continua y aprendizaje autodidacta  
 
-### 🌍 Sitio Web
 
-_(Aquí puedes agregar el enlace si tienes un portafolio o sitio personal)_
 
 ### 📲 Conecta conmigo
 
